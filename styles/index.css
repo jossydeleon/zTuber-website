@@ -1,0 +1,19 @@
+.jdl_link{ font-weight: bold; }
+
+.jdl_no_link {
+   color:white;
+   text-decoration: none;
+}
+
+.jdl_no_link:hover {
+    color:white;
+    text-decoration: none;
+ }
+
+.bg-dark-nav {
+    background-color: #2e2e2d;
+}
+
+.bg-light-nav {
+    background-color: rgb(236, 236, 236);
+}

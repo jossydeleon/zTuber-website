@@ -1,0 +1,42 @@
+{
+  "navigation": [
+    {
+      "id":"home",
+      "link": "/",
+      "name": "Home"
+    },
+    {
+      "id":"gallery",
+      "link": "/gallery",
+      "name": "Gallery"
+    },
+    {
+      "id":"demo",
+      "link": "/demo",
+      "name": "Demo"
+    },
+    {
+      "id":"download",
+      "link": "https://drive.google.com/file/d/1kToKVQaaLNhi3uCwc7TJf_2NDCDmD1zq/view?usp=sharing",
+      "name": "Download",
+      "type": "external"
+    }
+  ],  
+  "home": {
+    "heading": "Download and Stream music from YouTube in your Android",
+    "subtitle": "zTuber is an amazing Android app to stream music and download videos from Youtube in different formats as 3GP, MP4, M4A and can be converted to MP3 using FFmpeg for free, without limitations.",
+    
+    "icon_message_title_1": "Stream Music",
+    "icon_message_message_1": "You can create your own music playlist and listen it every single time without any limitation and subscription. You can stream music and use your other apps at the same time without pause your favorite video.",
+    "icon_message_title_2": "Convert videos to audio MP3",
+    "icon_message_message_2": "If you already have the video, why download the audio file again? zTuber allows to convert your video in your download list to MP3 without download the video again. Try it, it’s pretty cool.",
+    "paragrah_1": {
+      "title": "Device Compatibility",
+      "description": "zTuber is compatible with Android versions 4.4 (api 19) and up."
+    },
+    "paragrah_2": {
+      "title": "Installing zTuber",
+      "description": "zTuber is not on Google Play due to Google’s Policy which prohibits YouTube downloading apps for copyright concern. zTuber is safe, does not have any virus or malware code that can put your device on risk. Thank you for your trust."
+    }
+  }
+}
